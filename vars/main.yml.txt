@@ -1,0 +1,4 @@
+---
+# vars file for apache-simple
+first_line: Test1
+second_line: test2
