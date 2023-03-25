@@ -1,9 +1,7 @@
 ---
 - name: Ensure Apache installation
   hosts: all
-  vars:
-    first_line: Test1
-    second_line: test2
+  
   roles:
     - role_apache
  
